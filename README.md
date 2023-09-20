@@ -1,2 +1,1 @@
-- Hi, I’m Robert, a software developer based in Budapest, Hungary.
-- I try to make my life easier using small projects, and when I do, I upload them here.
+
